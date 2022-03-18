@@ -1,0 +1,80 @@
+body {
+  
+  
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  
+}
+
+
+.master:hover
+ {
+  background-color: rgb(126, 50, 21);
+}
+
+
+
+p {
+  
+  text-align: center;
+  
+}
+
+
+
+
+ .footer{
+     
+ }
+
+ h1{font: optional;background-color: blue;}
+
+ .Navbar{
+     border: darkmagenta; text-align: left;
+ }
+ form{text-align: left;}
+ form{padding: 20pt;}
+ .footer{background-color: rgb(196, 72, 72);
+background-size: contain;}
+.search-container{
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+/* unvisited link */
+a:link {
+  color: #3d14ad;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+
+}
+
+
+
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+  color: #0000FF;
+}
